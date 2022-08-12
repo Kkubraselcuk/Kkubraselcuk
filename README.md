@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kübra!;I'm+a+FrontEnd+Developer...;🇰übra-SELÇUK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Hey!+It's+Kübra!;I'm+a+FrontEnd+Developer...;🇰übra-SELÇUK)](https://git.io/typing-svg)
 <div align="center">
-
+<img src="https://www.kindpng.com/picc/m/299-2994011_front-end-development-logos-hd-png-download.png"/>
 
 ### 🛠 &nbsp;Tech Stack
 
