@@ -14,6 +14,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+  ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kubraselcuk/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kubraselcuk-25@hotmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--![Kübra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkubraselcuk&show_icons=true&theme=radical)
 
 **Kkubraselcuk/Kkubraselcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
