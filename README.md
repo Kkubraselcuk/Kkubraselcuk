@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kubraselcuk/"><img src="https://img.shields.io/badge/-Kubra%20Selcuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kubraselcuk-25@hotmail.com"><img src="https://img.shields.io/badge/-kubraselcuk-25@hotmail.com?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kubraselcuk-25@hotmail.com"><img src="https://img.shields.io/badge/-kubraselcuk-25@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--![Kübra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkubraselcuk&show_icons=true&theme=radical)
 
 **Kkubraselcuk/Kkubraselcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
